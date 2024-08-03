@@ -13,7 +13,7 @@ This is a simple web application for face detection using OpenCV and Streamlit. 
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/whothefisyash/face-detection-app.git
+    git clone https://github.com/whothefisyash/Open-CV--Face-Detection.git
     cd face-detection-app
     ```
 
